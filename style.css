@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px red solid;
+
+  color: rgb(3, 4, 94);
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+.main {
+  margin: 0 auto;
+  width: 80%;
+  background-color: rgb(202, 240, 248);
+}
+
+header {
+  text-align: center;
+  font-size: 6em;
+}
+
+nav {
+  width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 3em;
+  margin-left: 20px;
+}
+
+#blog {
+  font-size: 2em;
+  width: 800px;
+  margin: 10px auto;
+  min-height: 400px;
+  background-color: rgb(0, 180, 216);
+  text-align: center;
+}
+
+#blog p {
+  color: rgb(202, 240, 248);
+}
